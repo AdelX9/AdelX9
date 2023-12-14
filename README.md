@@ -14,12 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💫 About Me:
-🚀 With 5+ years of experience in mathematics and statistics, the journey towards a career in data analysis began.
 
-📊💡 Proficiency in data extraction, transformation, and visualization using Python and popular libraries like NumPy, Pandas, SciPy, Seaborn, and Matplotlib was honed. Additionally, expertise in SQL and Tableau was acquired, facilitating work with databases and creation of interactive data visualizations.
-
-📈💻 As a data scientist/analyst, a passion for solving complex problems and providing actionable insights through data-driven analysis is evident.
-
-💪💡 Strong analytical mindset, attention to detail, and effective communication skills add value to any data-focused team. Let's analyze the data together! 🚀🔍
 
